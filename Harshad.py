@@ -1,0 +1,1 @@
+print("Python program to find harshad number ")
